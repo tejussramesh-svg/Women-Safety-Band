@@ -58,3 +58,13 @@ Women-Safety-Band/
 
 ##  Developed By
 **Thejas S R**
+
+## Project Images
+
+### Transmitter Unit
+
+![Transmitter](transmitter.jpeg)
+
+### Receiver Unit
+
+![Receiver](receiver.jpeg)
