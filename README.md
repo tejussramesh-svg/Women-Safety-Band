@@ -38,6 +38,7 @@ Women-Safety-Band/
 │
 ├── transmitter.jpeg
 ├── receiver.jpeg
+├── Women_Safety_Band_Project_Report.pdf
 └── README.md
 ```
 
