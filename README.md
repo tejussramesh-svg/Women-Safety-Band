@@ -54,7 +54,7 @@ Women-Safety-Band/
 
 You can view the complete project report here:
 
-[ Women Safety Band Project Report](Women_Safety_Band_Project_Report.pdf)
+[ Women Safety Band Project Report](Women_Safety_Band_Project_Report.pdf.docx)
 
 ##  Future Improvements
 - GPS Location Tracking
