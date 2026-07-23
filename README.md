@@ -67,5 +67,5 @@ Women-Safety-Band/
 ### Project Guide
 
 - Dr. Mylara Reddy C
-- Professor
-- Dept. of ISE, SVCE-Bengaluru.
+  Professor
+  Dept. of ISE, SVCE-Bengaluru.
