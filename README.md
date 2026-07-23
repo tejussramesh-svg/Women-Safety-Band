@@ -49,6 +49,12 @@ Women-Safety-Band/
 ### Receiver Unit
 ![Receiver](receiver.jpeg)
 
+##  Project Report
+
+You can view the complete project report here:
+
+[ Women Safety Band Project Report](Women_Safety_Band_Project_Report.pdf)
+
 ##  Future Improvements
 - GPS Location Tracking
 - GSM SMS Alert
