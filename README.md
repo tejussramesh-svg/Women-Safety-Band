@@ -56,5 +56,16 @@ Women-Safety-Band/
 - Buzzer Alarm
 - Rechargeable Battery
 
-##  Developed By
-**Thejas S R**
+## Project Team
+
+- Keerti Timmanna Naik
+- Lekhana M
+- Thejas S R
+- Varsha N
+- Yashaswini J
+
+### Project Guide
+
+- Dr. Mylara Reddy C
+- Professor
+- Dept. of ISE, SVCE-Bengaluru.
